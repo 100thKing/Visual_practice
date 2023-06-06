@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+D:\CODE\Project3\Header.h(97,11): warning C4305: return: усечение из "int" в "bool"
+D:\CODE\Project3\Header.h(105): warning C4715: Open_bats: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project3.vcxproj -> D:\CODE\Project3\x64\Debug\Project3.exe
